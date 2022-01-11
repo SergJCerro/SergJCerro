@@ -17,7 +17,7 @@ const app = new Vue({
             new Post("English", "C2"),
             new Post("Deutsch", "A2")
           ],
-          programmingLanguages : [
+          programmingLanguages&&Other : [
               new Pro("HTML","90%"),
               new Pro("CSS","85%"),
               new Pro("JS","90%"),
