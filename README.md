@@ -7,7 +7,7 @@ const app = new Vue({
               new Info(
               "Hello! My Name is ",
               "Sergio J Cerritos.",
-              "I am 21 Years Old",
+              "I am 22 Years Old",
               "I am From the Beatuiful Country Of ",
               "Belize", 
               "Pleasure In meeting your Acquaintance")
